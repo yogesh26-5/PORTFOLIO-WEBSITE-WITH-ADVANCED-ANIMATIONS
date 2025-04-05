@@ -41,3 +41,5 @@ Additionally, Three.js is integrated for adding interactive 3D visuals and effec
 
 Conclusion
 This personal portfolio is more than just a website—it's a reflection of my skills, creativity, and commitment to delivering high-quality web experiences. By combining solid frontend development with powerful animation tools like GSAP and Three.js, I’ve created a dark-themed, smooth, and interactive space that introduces me to the digital world with confidence and style.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/e439db38-3a14-4827-b533-9e1163dfb961)
